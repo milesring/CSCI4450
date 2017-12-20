@@ -1,0 +1,27 @@
+K: 2
+Time taken: 5052400 ns
+Distortion: 38.14731090835743
+K: 3
+Time taken: 1139078 ns
+Distortion: 29.74931638227641
+K: 4
+Time taken: 1429156 ns
+Distortion: 26.026884219853955
+K: 5
+Time taken: 2139056 ns
+Distortion: 21.72521414094854
+K: 6
+Time taken: 1427705 ns
+Distortion: 21.735299834878333
+K: 7
+Time taken: 1186364 ns
+Distortion: 16.63434430581881
+K: 8
+Time taken: 1403714 ns
+Distortion: 15.282691013771753
+K: 9
+Time taken: 1387373 ns
+Distortion: 14.441123869993401
+K: 10
+Time taken: 1004238 ns
+Distortion: 13.783453071802295
